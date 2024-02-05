@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;   
+}
+
+.navbar-content{
+    display: flex;
+    list-style: none;
+}
+
+.navbar-content li{
+    padding-left: 80%;
+    list-style: none;
+    align-items: center;
+    font-size: larger;
+    padding-top: 5%; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.logo{
+    color: rgb(92, 146, 10);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.welcome{
+    align-items: center;
+    text-align: center;
+
+}
+
+section{
+    text-align: center;
+}

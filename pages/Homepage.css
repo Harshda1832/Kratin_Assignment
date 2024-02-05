@@ -1,0 +1,81 @@
+.quick-start-img{
+    width: 30%;
+    position: relative;
+    padding-left: 4%;
+    padding-bottom: 4%;
+    
+    
+}
+
+.quickstart{
+    display: flex;
+    padding-top: 5%;
+    background-color: rgb(223, 236, 204);
+    
+}
+
+.quickstart-content{
+    position: absolute;
+    left: 50%;
+    right: 10%;
+    text-align: justify;
+}
+
+button{
+    background-color: green;
+    font-size: small;
+}
+.quick-start-button{
+    right: 10%;
+    top: 70%;
+    /* border-radius: 10%; */
+    position: absolute;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-color: rgb(124, 211, 124);
+    cursor: pointer;
+}
+
+.diet-div{
+    background-color: rgb(183, 217, 70);
+    display: flex;
+    padding-top: 5%;
+    position: absolute;
+    
+}
+
+.diet-div-content{
+    position: relative;
+    text-align: justify;
+    padding-bottom: 5%; 
+    margin-right: 25%;
+    margin-top: 8%;
+    left: 5%;
+    margin-left: 0;
+    
+}
+
+.diet-div-img{
+    width: 25%;
+    position: relative;
+    padding-right: 4%;
+    padding-bottom: 4%;
+}
+
+.Meal-planning{
+    left: 5%;
+    top: 80%;
+    /* border-radius: 10%; */
+    position: absolute;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-color: rgb(124, 211, 124);
+    cursor: pointer;
+}
+

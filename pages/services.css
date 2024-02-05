@@ -1,0 +1,38 @@
+.services{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+
+.services-list{
+    padding-left: 15%;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(238, 238, 235);
+    padding-top: 5%;
+    margin-left: 0%;
+}
+
+
+
+.meditation-clip{
+    background-color: green;
+    color: white;
+    padding: 1% 1% 1% 1%;
+    text-decoration-line: none;
+}
+
+.audio-book-link{
+    background-color: green;
+    color: white;
+    padding: 1% 1% 1% 1%;
+    text-decoration-line: none;
+}
+
+
+
+.audio-book{
+    text-align: center;
+    text-decoration: none;
+    width: 30%;
+}

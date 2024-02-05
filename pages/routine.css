@@ -1,0 +1,293 @@
+.routine-text{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(105, 5, 5);
+}
+
+.Productive-daily-routine{
+    background-color: rgb(240, 202, 209);
+    display: flex;
+}
+
+.task1-time{
+    position: absolute;
+    background-color: orange;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+.task1-todo{
+    position: absolute;
+    background-color: rgb(245, 245, 211);
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    box-shadow: 30pc;
+    margin: 5% 30% 5% 5%; 
+}
+
+.task1-todo ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+
+}
+
+.wakeup{
+    width: 20%;
+    display: flex;
+    margin-left: 40%;
+    margin-top: 0.5%;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.task2-time{
+    margin-left: 90%;
+    position: absolute;
+    background-color: orange;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+.task2-todo{
+    position: absolute;
+    background-color: rgb(245, 245, 211);
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    box-shadow: 30pc;
+    margin: 5% 5% 5% 50%; 
+}
+
+.task2-todo ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    text-align: left;
+
+}
+
+.breakfast{
+    
+    width: 20%;
+    display: flex;
+    margin-left: 31%;
+    margin-bottom: 3%;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.task2 img{
+    padding-top: 3%;
+    padding-left: 0.8%;
+}
+
+.task3-time{
+    position: absolute;
+    background-color: orange;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+.task3-todo{
+    position: absolute;
+    background-color: rgb(245, 245, 211);
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    box-shadow: 30pc;
+    margin: 5% 30% 5% 5%; 
+}
+
+.task3-todo ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+
+}
+
+.newspaper{
+    width: 22%;
+    display: flex;
+    margin-left: 34%;
+    margin-top: 0.5%;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.task4-time{
+    margin-left: 90%;
+    position: absolute;
+    background-color: orange;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+.task4-todo{
+    position: absolute;
+    background-color: rgb(245, 245, 211);
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    box-shadow: 30pc;
+    margin: 5% 5% 5% 50%; 
+}
+
+.task4-todo ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    text-align: left;
+
+}
+
+.walk{
+    
+    width: 20%;
+    display: flex;
+    margin-left: 31%;
+    margin-bottom: 3%;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.task5 img{
+    padding-top: 3%;
+    padding-left: 0.8%;
+}
+
+.task5-time{
+    position: absolute;
+    background-color: orange;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+.task5-todo{
+    position: absolute;
+    background-color: rgb(245, 245, 211);
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    box-shadow: 30pc;
+    margin: 5% 30% 5% 5%; 
+}
+
+.task5-todo ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+
+}
+
+.phone{
+    width: 22%;
+    display: flex;
+    margin-left: 34%;
+    margin-top: 0.5%;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.task6-time{
+    margin-left: 90%;
+    position: absolute;
+    background-color: orange;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+.task6-todo{
+    position: absolute;
+    background-color: rgb(245, 245, 211);
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    box-shadow: 30pc;
+    margin: 5% 5% 5% 50%; 
+}
+
+.task6-todo ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    text-align: left;
+
+}
+
+.tea{
+    
+    width: 22%;
+    display: flex;
+    margin-left: 30%;
+    margin-bottom: 1%;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.task7 img{
+    padding-top: 3%;
+    padding-left: 0.8%;
+}
+
+.task7-time{
+    position: absolute;
+    background-color: orange;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+.task7-todo{
+    position: absolute;
+    background-color: rgb(245, 245, 211);
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    box-shadow: 30pc;
+    margin: 5% 30% 5% 5%; 
+}
+
+.task7-todo ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+
+}
+
+.dinner{
+    width: 22%;
+    display: flex;
+    margin-left: 50%;
+    margin-top: 0.5%;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.task8-time{
+    margin-left: 90%;
+    position: absolute;
+    background-color: orange;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+.task8-todo{
+    position: absolute;
+    background-color: rgb(245, 245, 211);
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    box-shadow: 30pc;
+    margin: 5% 5% 5% 50%; 
+}
+
+.task8-todo ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    text-align: left;
+
+}
+
+.night{
+    
+    width: 22%;
+    display: flex;
+    margin-left: 30%;
+    margin-bottom: 1%;
+    position: relative;
+    border-radius: 50%;
+
+}
